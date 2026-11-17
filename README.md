@@ -4,9 +4,9 @@ An Android app GueoGuessr game but for Iowa State University campus.
 
 ## Creators 
 
-Jacob Garcia 
+Jacob Garcia (Frontend)
 <br>
-Dylan Longlett
+Dylan Longlett (Frontend)
 <br>
-Noah Goche
+Noah Goche (Backend)
 <br>
